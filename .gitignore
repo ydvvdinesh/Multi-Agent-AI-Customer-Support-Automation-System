@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+venv/
+.env
+
+node_modules/
+
+vector_store/faiss_index/
+
+models/
+
+.cache/
+
+dist/
+build/
